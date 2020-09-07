@@ -26,6 +26,7 @@ We  tested standard classification models for the licit/illicit prediction
 
 #### A Study of Bitcoin De-Anonymization: Graph and Multidimensional Data Analysis
 https://ieeexplore.ieee.org/abstract/document/9172832
+Classic clustering methods, then Illegal transaction detection.
 
 ## Actor (clusters of addresses) role identification  
 #### Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning
