@@ -1,9 +1,9 @@
 # awesome-bitcoin
 
 ## Transaction Forecasting (how likely two addresses are of having a transaction in the future)
-### Graph embedding
-#### Bitcoin Transaction Forecasting with Deep Network Representation Learning
 
+#### Bitcoin Transaction Forecasting with Deep Network Representation Learning
+(Graph embedding)
 Use random-walk based mechanism to generate a representation (embedding) of addresses (not actors). These embeddings can be used as input of a neural networks for some tasks.
 
 we build the time-decayed reachability graph to represent the inter-account transaction reachability
@@ -18,11 +18,16 @@ we do not verify the ownership of the addresses but only use the address graph t
 
 ## Illegal transaction detection
 #### Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics
+(Various ML techniques, including GCN)
 Based on an existing dataset, subnetwork with many features, predict if a transaction is legit or not (ground truth from this dataset, provided by a company)
 The Elliptic Data Set, a graph network of Bitcoin transac- tions with handcrafted features
 203,769 node transactions and 234,355 directed edge payments flows
 We  tested standard classification models for the licit/illicit prediction
 
-## De-anonymizing actors(clusters of addresses)
+## Actor (clusters of addresses) role identification  
 #### Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning
 The data provider has clustered, identified and categorised a substantial number of Bitcoin addresses manually or through a variety of clustering techniques (sec. 4).
+
+## Addresses de-anonymization (actor discovery)
+#### UNMASKING USER IDENTITIES BY CLUSTERING ADDRESSES AND ANALYZING BEHAVIOR RELATED TO BLOCKCHAIN TRANSACTIONS
+Uses temporal activity patterns to associate addresses to actors.
