@@ -24,10 +24,18 @@ The Elliptic Data Set, a graph network of Bitcoin transac- tions with handcrafte
 203,769 node transactions and 234,355 directed edge payments flows
 We  tested standard classification models for the licit/illicit prediction
 
+#### A Study of Bitcoin De-Anonymization: Graph and Multidimensional Data Analysis
+https://ieeexplore.ieee.org/abstract/document/9172832
+
 ## Actor (clusters of addresses) role identification  
 #### Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning
 The data provider has clustered, identified and categorised a substantial number of Bitcoin addresses manually or through a variety of clustering techniques (sec. 4).
 
 ## Addresses de-anonymization (actor discovery)
+
+#### BITSCOPE: Scaling Bitcoin Address De-anonymization using Multi-Resolution Clustering
+https://blog.zhen-zhang.com/bitscope-public/paper.pdf
+
 #### UNMASKING USER IDENTITIES BY CLUSTERING ADDRESSES AND ANALYZING BEHAVIOR RELATED TO BLOCKCHAIN TRANSACTIONS
+https://calhoun.nps.edu/handle/10945/64927
 Uses temporal activity patterns to associate addresses to actors.
