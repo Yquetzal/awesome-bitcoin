@@ -32,6 +32,8 @@ Classic clustering methods, then Illegal transaction detection.
 #### Breaking Bad: De-Anonymising Entity Types on the Bitcoin Blockchain Using Supervised Machine Learning
 The data provider has clustered, identified and categorised a substantial number of Bitcoin addresses manually or through a variety of clustering techniques (sec. 4).
 
+#### Cascading Machine Learning to Attack Bitcoin Anonymity
+
 ## Addresses de-anonymization (actor discovery)
 
 #### BITSCOPE: Scaling Bitcoin Address De-anonymization using Multi-Resolution Clustering
@@ -42,4 +44,4 @@ https://calhoun.nps.edu/handle/10945/64927
 Uses temporal activity patterns to associate addresses to actors.
 
 
-#### Cascading Machine Learning to Attack Bitcoin Anonymity
+
