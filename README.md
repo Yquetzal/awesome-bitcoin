@@ -24,6 +24,8 @@ The Elliptic Data Set, a graph network of Bitcoin transac- tions with handcrafte
 203,769 node transactions and 234,355 directed edge payments flows
 We  tested standard classification models for the licit/illicit prediction
 
+#### Identification of Darknet Markets' Bitcoin Addresses by Voting Per-Address Classification Results
+
 #### A Study of Bitcoin De-Anonymization: Graph and Multidimensional Data Analysis
 https://ieeexplore.ieee.org/abstract/document/9172832
 Classic clustering methods, then Illegal transaction detection.
