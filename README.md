@@ -40,3 +40,6 @@ https://blog.zhen-zhang.com/bitscope-public/paper.pdf
 #### UNMASKING USER IDENTITIES BY CLUSTERING ADDRESSES AND ANALYZING BEHAVIOR RELATED TO BLOCKCHAIN TRANSACTIONS
 https://calhoun.nps.edu/handle/10945/64927
 Uses temporal activity patterns to associate addresses to actors.
+
+
+#### Cascading Machine Learning to Attack Bitcoin Anonymity
