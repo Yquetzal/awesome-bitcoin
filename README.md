@@ -47,6 +47,8 @@ Classic clustering methods, then Illegal transaction detection.
 
 #### A multifaceted approach to bitcoin fraud detection: Global and local outliers
 
+#### EGRET: Extortion graph exploration techniques in the bitcoin network
+
 ### Elliptic dataset for illicit transaction detection
 
 #### Anti-Money Laundering in Bitcoin: Experimenting with Graph Convolutional Networks for Financial Forensics
